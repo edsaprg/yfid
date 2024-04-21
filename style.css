@@ -20,7 +20,7 @@ i {
 }
 
 .header-icons {
-  padding: 100px;
+  padding: 20px;
   display: flex;
   gap: 14px;
 }
@@ -116,8 +116,8 @@ i {
 .hero h1 {
   text-align: center;
   line-height: 150%;
-  max-width: 940px;
-  font-size: 46px;
+  max-width: 840px;
+  font-size: 36px;
 }
 .hero p {
   text-align: center;
