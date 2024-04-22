@@ -70,8 +70,9 @@ i {
     margin-top: 16px;
     font-size: 34px;
   }
+  /*alterado para acertar a imagem do tamanho certo em celular estava com width: 1rem */
   .header-logo img {
-    width: 1rem;
+    width: 100%;
     margin-top: 2rem;
   }
   .header-button {
