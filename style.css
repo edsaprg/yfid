@@ -54,8 +54,6 @@ i {
 
 .header-logo {
   display: flex;
-  /*# não habia o width */
-  width: 50%;
   align-items: center;
   justify-content: center;
   margin-top: 2rem
