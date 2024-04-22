@@ -20,7 +20,7 @@ i {
 }
 
 .header-icons {
-  padding: 20px;
+  padding: 10px;
   display: flex;
   gap: 14px;
 }
@@ -51,12 +51,14 @@ i {
   border: 1px solid #d34040;
   background-color: #d34040;
 }
-
+/*Alteração colocando   width: 100%;   height: 100%; só tirar*/
 .header-logo {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 2rem
+  margin-top: 2rem;
+  width: 100%;
+  height: 100%;  
 }
 
 @media screen and (max-width: 768px) {
