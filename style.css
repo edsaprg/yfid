@@ -56,16 +56,17 @@ i {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 2rem
+  margin-top: 0,5rem
 
 }
 
 @media screen and (max-width: 768px) {
   .header-content {
     width: 100%;
-    flex-direction: column;
+    /*flex-direction: column;
     align-items: center;
     justify-content: center;
+    */
   }
   .header-content i {
     margin-top: 16px;
