@@ -19,12 +19,6 @@ i {
   color: #FFF;
 }
 
-.gtranslate_wrapper{
-  padding: 1rem;
-  display: flex;
-  gap: 14px;
-}
-
 .header-icons {
   padding: 100px;
   display: flex;
